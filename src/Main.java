@@ -6,6 +6,6 @@ public class Main {
 
         int bonus = ticketPrice / rubForMile;
         System.out.println(bonus);
-        git
+        
     }
 }
